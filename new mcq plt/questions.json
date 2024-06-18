@@ -1,0 +1,31 @@
+{
+    "topics": [
+      { "name": "Math" },
+      { "name": "Science" },
+      { "name": "History" }
+    ],
+    "questions": [
+      {
+        "topic": "Math",
+        "difficulty": "easy",
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 1
+      },
+      {
+        "topic": "Science",
+        "difficulty": "medium",
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "NaCl"],
+        "answer": 0
+      },
+      {
+        "topic": "History",
+        "difficulty": "hard",
+        "question": "Who was the first president of the United States?",
+        "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+        "answer": 2
+      }
+    ]
+  }
+  
